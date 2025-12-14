@@ -3,7 +3,7 @@ layout: post
 title:  "Por uma Ontologia em Camadas: Para Além dos Campos Quânticos"
 date:   2024-05-26 12:00:00 -0300
 categories: ontologia pre-fisica fundamentos
-author: [SEU PSEUDÔNIMO]
+author: FYMS-BF
 ---
 
 ### **Resumo**
@@ -54,17 +54,21 @@ O esboço ontológico demanda uma contraparte matemática. Propõe-se um program
     *   O mecanismo central é a transição entre camadas. Deve-se buscar formalizar o processo de *coarse-graining* que mapeia os estados microscópicos de `D_{n-1}` nos observáveis macroscópicos de `D_n`.
     *   O formalismo deve ser **recursivo**: as equações que descrevem a emergência de `D_{n+1}` a partir de `D_n` devem ter a mesma forma funcional que as que descreveriam a emergência de `D_n` a partir de `D_{n-1}`. Isto capturaria a auto-similaridade da regressão aberta.
 
-### **5. Conclusão: Uma Nova Meta para a Física Fundamental**
-Este ensaio não apresenta uma teoria nova, mas um **mapa para uma nova classe de teorias**. Argumentamos que a física está pronta para uma transição: da descrição da camada fenomênica para a modelagem das transições ontológicas que a geram.
+### 5. Conclusão: Uma Nova Meta para a Física Fundamental
+
+Este ensaio não apresenta uma teoria nova, mas um **mapa para uma nova classe de teorias**. Argumentamos que a física está pronta para uma transição: da descrição da camada fenomênica para a modelagem das **transições ontológicas** que a geram.
 
 A proposta de uma ontologia em camadas, com entes subquantizados e regressão aberta, oferece um caminho para dissolver paradoxos persistentes:
-*   A quantização deixa de ser um postulado misterioso e torna-se um sinal de estabilidade emergente.
-*   A dicotomia entre o contínuo (campos) e o discreto (partículas) é reconciliada.
-*   A gravidade é naturalmente desassociada de seu status especial e pode emergir junto com as outras interações.
 
-O convite final é para que físicos, matemáticos e filósofos colaborem na construção do formalismo aqui esboçado. O objetivo não é encontrar a "equação final", mas descobrir a **lei de transformação** que conecta as infinitas camadas da realidade—uma empreitada que pode ser o verdadeiro significado da busca por uma teoria fundamental.
+*   **A quantização** deixa de ser um postulado misterioso e torna-se um sinal de **estabilidade emergente**.
+*   **A dicotomia** entre o contínuo (campos) e o discreto (partículas) é reconciliada.
+*   **A gravidade** é naturalmente desassociada de seu status especial e pode emergir, junto com as outras interações, de um substrato comum.
+
+O ponto de convergência deste programa é agudo e fundamental: a chave reside na síntese entre **"realidade ontológica"** e **"informação/relação"**. A física do século XXI já vislumbra essa fusão em conceitos como o princípio holográfico e a emergência do espaço-tempo. Nossa proposta radicaliza essa intuição: a rede de relações *é* a realidade primária; a informação *é* sua substância. Portanto, a lei de transformação entre camadas que buscamos é, em sua essência, um **protocolo de tradução** entre estrutura ontológica e conteúdo informacional-relacional.
+
+O convite final é para que físicos, matemáticos e filósofos colaborem na construção do formalismo aqui esboçado. O objetivo último não é encontrar uma única "equação final", mas descobrir a **lei de transformação universal** que conecta as infinitas camadas da realidade — uma empreitada que pode redefinir o verdadeiro significado da busca por uma teoria fundamental.
 
 ---
 *Este ensaio é o primeiro de uma série que busca explorar os fundamentos ontológicos da física. Críticas, objeções e, especialmente, sugestões para avançar no programa de formalização são não apenas bem-vindas, mas o objetivo principal desta publicação. O autor escreve sob pseudônimo para focar o debate exclusivamente no conteúdo das ideias.*
 
-*Comentários podem ser direcionados via issues no [repositório deste projeto](https://github.com/[SEU-USUARIO-GITHUB]/[NOME-DO-REPOSITORIO]) (para discussões técnicas) ou por e-mail: [seu-email-proxy@example.com] (se preferir contato direto).*
+*Comentários podem ser direcionados via issues no [repositório deste projeto](https://github.com/FYMS-BF/FYMS-BF)
