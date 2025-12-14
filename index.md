@@ -9,12 +9,6 @@ Este é um espaço de investigação conceitual dedicado aos fundamentos da real
 
 O foco não é apresentar teorias acabadas, mas **esboçar mapas, propor postulados e abrir linhas de investigação** que possam, no futuro, levar a formalismos matemáticos concretos. Interessam-nos as transições entre camadas da realidade, a natureza emergente da quantização e a possibilidade de uma regressão ontológica sem um "tijolo fundamental" último.
 
-## Publicações
-
-{% for post in site.posts %}
-* [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%d/%m/%Y" }})
-{% endfor %}
-
 ## Glossário de Conceitos-Chave (Em Construção)
 
 *   **Entes Subquantizados**: Unidades relacionais, discretas e pré-espaciais postuladas como constituintes da camada imediatamente anterior aos campos quânticos.
@@ -24,7 +18,7 @@ O foco não é apresentar teorias acabadas, mas **esboçar mapas, propor postula
 
 ## Sobre o Autor
 
-Os textos são publicados sob o pseudônimo **"[SEU PSEUDÔNIMO]"**. A escolha pelo anonimato visa proteger a identidade do autor em seu ambiente profissional e garantir que o debate se concentre exclusivamente no mérito das ideias, e não em credenciais ou afiliações.
+Os textos são publicados sob o pseudônimo FYMS-BF. A escolha pelo anonimato visa proteger a identidade do autor em seu ambiente profissional e garantir que o debate se concentre exclusivamente no mérito das ideias, e não em credenciais ou afiliações.
 
 A investigação que deu origem a este espaço nasceu de um longo diálogo dialético entre um investigador humano e um modelo de linguagem de IA, usado como uma ferramenta de contraposição lógica e expansão conceitual.
 
@@ -32,8 +26,4 @@ A investigação que deu origem a este espaço nasceu de um longo diálogo dial�
 
 Este é um projeto em estágio embrionário e conceitual. A contribuição mais valiosa é o **rigor crítico**.
 
-1.  **Para discussões técnicas** (erros lógicos, sugestões de formalismo, conexões com literatura existente): Use a aba [*Issues*](https://github.com/[SEU-USUARIO-GITHUB]/[NOME-DO-REPOSITORIO]/issues) do repositório GitHub deste site.
-2.  **Para contato direto do autor** (para diálogos mais extensos ou colaborações): [seu-email-proxy@example.com]
-
----
-*"O importante é não parar de questionar. A curiosidade tem sua própria razão de existir." — Adaptado de Albert Einstein*
+1.  **Para discussões técnicas** (erros lógicos, sugestões de formalismo, conexões com literatura existente): Use a aba [*Issues*](https://github.com/FYMS-BF/FYMS-BF/issues) do repositório GitHub deste site.
