@@ -12,8 +12,9 @@ Este é um espaço de investigação conceitual dedicado aos fundamentos da real
 O foco não é apresentar teorias acabadas, mas **esboçar mapas, propor postulados e abrir linhas de investigação** que possam, no futuro, levar a formalismos matemáticos concretos. Interessam-nos as transições entre camadas da realidade, a natureza emergente da quantização e a possibilidade de uma regressão ontológica sem um "tijolo fundamental" último.
 
 ## Textos Publicados
-
-[2025-12-14 – Ensaio Fundador]({% link _posts/2025-12-14-ensaio-fundador.md %})  
+  
+1. **[Ensaio Fundador](https://github.com/FYMS-BF/FYMS-BF.github.io/blob/main/2025-12-14-ensaio-fundador.md)**  
+    *Estabelece os pressupostos, o método de investigação e o glossário inicial do projeto.*
 
 ## Glossário de Conceitos-Chave (Em Construção)
 
