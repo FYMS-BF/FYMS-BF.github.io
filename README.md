@@ -21,7 +21,7 @@ Lá você encontrará:
 
 ## 📚 Textos Fundantes (Publicados no Site)
 
-1.  **[Renormalização Ontológica e a Emergência da Quantização](https://fyms-bf.github.io/2025/03/22/renormalizacao-ontologica-emergencia-quantizacao.html)**  
+1.  **[Renormalização Ontológica e a Emergência da Quantização](https://github.com/FYMS-BF/FYMS-BF.github.io/blob/main/_posts/2025-12-16-renormalizacao-ontologica-emergencia-quantizacao.md)**  
     *Apresenta o framework central: como a quantização emerge de um processo de `coarse-graining` seletivo entre camadas da realidade.*
 
 2.  **[Ensaio Fundador](https://github.com/FYMS-BF/FYMS-BF.github.io/blob/main/2025-12-14-ensaio-fundador.md)**  
