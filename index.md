@@ -13,8 +13,8 @@ O foco não é apresentar teorias acabadas, mas **esboçar mapas, propor postula
 
 ## Textos Publicados
 
-* [2025-12-14 - Ensaio Fundador]({{ site.baseurl }}{% link 20251214-ensaio-fundador.md %})
-* [2025-12-14 - Ensaio Fundador]({% link _posts/20251214-ensaio-fundador.md %}) 
+* [2025-12-14 - Ensaio Fundador]({{ site.baseurl }}{% link 2025-12-14-ensaio-fundador.md %})
+* [2025-12-14 - Ensaio Fundador]({% link _posts/2025-12-14-ensaio-fundador.md %}) 
 
 ## Glossário de Conceitos-Chave (Em Construção)
 
