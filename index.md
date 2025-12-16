@@ -5,7 +5,7 @@ title: "Investigação Ontológica"
 
 # Um Espaço para a Pré-Física
 
-**Núcleo da Investigação: A Renormalização Ontológica e a Emergência da Quantização.**
+## Núcleo da Investigação: A Renormalização Ontológica e a Emergência da Quantização.
 
 Este é um espaço de investigação conceitual dedicado aos fundamentos da realidade física. Partimos do pressuposto de que as teorias físicas atuais operam em uma **camada fenomenológica** que emerge de estruturas ontológicas mais profundas.
 
