@@ -11,6 +11,10 @@ Este é um espaço de investigação conceitual dedicado aos fundamentos da real
 
 O foco não é apresentar teorias acabadas, mas **esboçar mapas, propor postulados e abrir linhas de investigação** que possam, no futuro, levar a formalismos matemáticos concretos. Interessam-nos as transições entre camadas da realidade, a natureza emergente da quantização e a possibilidade de uma regressão ontológica sem um "tijolo fundamental" último.
 
+## Textos Publicados
+
+* [2025-12-14 - Ensaio Fundador]({{ site.baseurl }}{% link 20251214-ensaio-fundador.md %})
+
 ## Glossário de Conceitos-Chave (Em Construção)
 
 *   **Entes Subquantizados**: Unidades relacionais, discretas e pré-espaciais postuladas como constituintes da camada imediatamente anterior aos campos quânticos.
