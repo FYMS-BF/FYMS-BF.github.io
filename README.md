@@ -24,7 +24,7 @@ Lá você encontrará:
 1.  **[Renormalização Ontológica e a Emergência da Quantização](https://fyms-bf.github.io/2025/03/22/renormalizacao-ontologica-emergencia-quantizacao.html)**  
     *Apresenta o framework central: como a quantização emerge de um processo de `coarse-graining` seletivo entre camadas da realidade.*
 
-2.  **[Ensaio Fundador](https://fyms-bf.github.io/2025/12/14/ensaio-fundador.html)**  
+2.  **[Ensaio Fundador](https://fyms-bf.github.io/2025-12-14/ensaio-fundador.html)**  
     *Estabelece os pressupostos, o método de investigação e o glossário inicial do projeto.*
 
 ## 🧠 Conceitos-Chave (Em Investigação)
