@@ -1,8 +1,4 @@
 ---
-title: "Ensaio Fundador"
-date: 2025-12-14
----
----
 layout: post
 title:  "Por uma Ontologia em Camadas: Para Além dos Campos Quânticos"
 date:   2024-05-26 12:00:00 -0300
