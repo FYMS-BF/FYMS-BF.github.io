@@ -15,6 +15,8 @@ O foco não é apresentar teorias acabadas, mas **esboçar mapas, propor postula
   
 1. **[Ensaio Fundador](https://github.com/FYMS-BF/FYMS-BF.github.io/blob/main/2025-12-14-ensaio-fundador.md)**  
     *Estabelece os pressupostos, o método de investigação e o glossário inicial do projeto.*
+2. **[Renormalização Ontológica e a Emergência da Quantização](https://github.com/FYMS-BF/FYMS-BF.github.io/blob/main/_posts/2025-12-16-renormalizacao-ontologica-emergencia-quantizacao.md)**  
+    *Apresenta o framework central: como a quantização emerge de um processo de `coarse-graining` seletivo entre camadas da realidade.*
 
 ## Glossário de Conceitos-Chave (Em Construção)
 
